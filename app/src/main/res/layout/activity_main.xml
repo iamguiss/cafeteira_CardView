@@ -100,7 +100,7 @@
                     android:layout_height="35dp"
                     android:layout_marginLeft="2dp"
                     android:layout_marginRight="2dp"
-                    android:layout_weight="1dp"
+                    android:layout_weight="1sp"
                     android:background="@drawable/botao"
                     android:contentDescription="p1"
                     android:text="17:30"
@@ -112,7 +112,7 @@
                     android:layout_height="35dp"
                     android:layout_marginLeft="2dp"
                     android:layout_marginRight="2dp"
-                    android:layout_weight="1dp"
+                    android:layout_weight="1sp"
                     android:background="@drawable/botao"
                     android:contentDescription="p2"
                     android:text="19:30"
@@ -124,7 +124,7 @@
                     android:layout_height="35dp"
                     android:layout_marginLeft="2dp"
                     android:layout_marginRight="2dp"
-                    android:layout_weight="1dp"
+                    android:layout_weight="1sp"
                     android:background="@drawable/botao"
                     android:contentDescription="p3"
                     android:text="20:00"
@@ -136,7 +136,7 @@
                     android:layout_height="35dp"
                     android:layout_marginLeft="2dp"
                     android:layout_marginRight="2dp"
-                    android:layout_weight="1dp"
+                    android:layout_weight="1sp"
                     android:background="@drawable/botao"
                     android:contentDescription="p34"
                     android:text="21:00"
@@ -152,7 +152,7 @@
                 android:contentDescription="Reserve"
 
                 android:text="Reserve"
-                android:textSize="15dp" />
+                android:textSize="15sp" />
 
         </LinearLayout>
 
